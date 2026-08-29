@@ -1,6 +1,7 @@
 import { BriefcaseBusiness, CalendarDays, Search } from 'lucide-react'
 import supabase, { isSupabaseConfigured } from '@/lib/supabaseClient'
 import JobFilters from './JobFilters'
+import SocialLinks from './SocialLinks'
 
 export const dynamic = 'force-dynamic'
 
